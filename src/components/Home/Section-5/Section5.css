@@ -1,0 +1,40 @@
+.Section-5 .col{
+	color: #fff;
+	text-align: center;
+	padding: 80px 0px;
+	background-size: cover;
+}
+
+.Section-5 .col p{
+	font-family: Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+}
+
+.Section-5 button{
+	padding: 5px 10px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: transparent;
+	border: 1px solid #fff;
+	color:#fff;
+}
+
+.Section-5 .col:first-child{
+	background: 
+	linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), 
+	url(../../../img/Section5_1.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: top;    
+}
+
+
+.Section-5 .col:last-child{
+	background: 
+	linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)), 
+	url(../../../img/Section5_2.png);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: top;    
+}

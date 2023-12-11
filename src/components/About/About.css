@@ -1,0 +1,111 @@
+#About__title {
+  font-family: Yesteryear;
+  font-size: 160px;
+}
+
+.title {
+  margin: 100px 0;
+}
+
+.title p {
+  font-weight: 600;
+}
+
+.Header__about {
+  text-align: center;
+
+  padding: 15px 0 50px 0;
+  background-image: url(../../img/About_back.png);
+  background-size: cover;
+  color: #fff;
+}
+
+.Header__about .col {
+  color: #fff;
+  font-family: Arial;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.Header__about .col a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.Header__about .col button {
+  background: #df6951;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-family: Arial;
+}
+
+.About-1 h6 {
+  text-transform: uppercase;
+  color: #df6951;
+}
+
+.About-1 h1 {
+  font-size: 58px;
+  text-wrap: balance;
+}
+
+.About-1 button {
+  background: #df6951;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-family: Arial;
+}
+
+.About-1 .col:last-child {
+  background-image: url("../../img/About-1_back.png");
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.About-1 img {
+  max-width: 300px;
+}
+
+.About-1 {
+  padding: 50px 0;
+  margin-bottom: 70px;
+}
+
+.About-2 .col:first-child {
+  text-align: center;
+}
+
+.About-2 .col:first-child img {
+  max-width: 400px;
+}
+
+.graphs {
+  display: flex;
+  justify-content: space-between;
+}
+
+.About-3 {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.8)),
+    url("../../img/About-3_back.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  padding: 155px 0;
+  text-align: center;
+  margin-top: 70px ;
+}
+
+.About-3 h1 {
+  font-family: Yesteryear;
+  font-size: 140px;
+  color: #fff;
+}

@@ -1,0 +1,30 @@
+.Section-3 .col img{
+	max-width: 450px;
+}
+
+.row{
+	align-items: center;
+}
+
+.Section-3 .col h6{
+	text-transform: uppercase;
+	color: #DF6951;
+}
+
+.Section-3 .col h1{
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 600;
+}
+
+.Section-3 .col p{
+	text-wrap: balance;
+}
+
+.Section-3 .col button{
+	padding: 10px 20px;
+	border: none;
+	margin-top: 10px;
+	background-color: #DF6951;
+	border-radius: 10px;
+	color: #fff;
+}

@@ -1,0 +1,22 @@
+.Section2{
+	margin: 50px 0;
+}
+
+.text{
+	text-align: center;
+}
+
+.text h6{
+	color: #DF6951;
+}
+
+.Section2 .col{
+	padding: 20px 30px;
+	text-align: center;
+	text-wrap: balance;
+}
+
+.Section2 .col img{
+	width: 65px;
+	margin-bottom: 25px;
+}
